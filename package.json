@@ -3,11 +3,11 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://steel809/WPTBILL",
+  "homepage": "https://steel809.github.io/<repo>/",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "build": "vite build",
     "preview": "vite preview"
   },
